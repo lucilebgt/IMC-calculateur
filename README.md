@@ -1,5 +1,11 @@
-# IMC-calculateur
+# IMC-CALCULATEUR
 
-HTML- CSS - JAVASCRIPT
+**STACK** 
 
-un petit calculateur d'imc basique
+        - HTML
+        - CSS 
+        - JAVASCRIPT
+
+*un petit calculateur d'imc basique pour apprehender Javascript*
+
+![alt text](image.png)
